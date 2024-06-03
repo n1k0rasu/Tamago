@@ -1,2 +1,2 @@
-# tamago-wiki.github.io
+# Tamago
 Official Wiki for Tamago
